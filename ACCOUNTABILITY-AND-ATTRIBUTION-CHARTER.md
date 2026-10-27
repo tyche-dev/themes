@@ -1,6 +1,6 @@
 # Accountability and Attribution After an Agent Has Acted — Charter
 
-**Status:** Draft, version 0.3 (see Revision History)
+**Status:** Draft, version 0.4 (see Revision History)
 **Originating issue:** #1
 **Proposer(s) / drafter(s):** Oleh Vasylenko (@OlehVasylenko2000), Management Company Elixir LLC (Ukraine): originating proposer and reviewer. Anton Sokolov (@tyche-dev), Tyche Institute MTÜ: drafter. Co-drafters by part, under the division confirmed on #1 on 4–7 September: @danyka-icam (lineage requirements and cases) and @syedofc (identity and state continuity).
 
@@ -89,7 +89,7 @@ Deliverables:
 How the work runs:
 
 - If the group folds this theme into a Working Group at the Paris meeting, D1 and D2 move into that group's deliverable; as @OlehVasylenko2000 put it on 1 September, "the requirements travel, and the drafting responsibility travels with them".
-- A Working Group charter built on the template of 21 October (FG-TIDA/wg-charter-template) carries names and affiliations in its Section 1 only. Clause-level attribution then stays traceable in two places: in D1, where every clause stands under its author's name, and in a linked contribution record: this charter (PR #46), which records who proposed and who refined each clause, and the two requirement comments on #1, which hold the clause text. @OlehVasylenko2000 asked on #46 where this attribution would remain traceable (26 October). In the drafter's reading, the other sections map onto the template: Summary to Background and Problem Statement, Objectives to Goals, Scope and Out of Scope to Scope and Non-Goals, Deliverables to Programme of Work and Deliverables, Related Work and Related Themes to Coordination, Dependencies and Liaisons.
+- A Working Group charter built on the template of 21 October (FG-TIDA/wg-charter-template) carries names and affiliations in its Section 1 only. Clause-level attribution then stays traceable in two places: in D1, where every clause stands under its author's name, and in a linked contribution record: this charter (PR #46), which records who proposed and who refined each clause, and the two requirement comments on #1, which hold the clause text. @OlehVasylenko2000 asked on #46 where this attribution would remain traceable (26 October). The same linked contribution record keeps the Open Questions and the attributed positions recorded under them, alongside clause-level attribution (@OlehVasylenko2000 on #46, 26 October). In the drafter's reading, the other sections map onto the template: Summary to Background and Problem Statement, Objectives to Goals, Scope and Out of Scope to Scope and Non-Goals, Deliverables to Programme of Work and Deliverables, Related Work and Related Themes to Coordination, Dependencies and Liaisons.
 - The drafter asks for at least one co-editor for D1. Who co-edits, and the cadence after Paris, are for the group to set.
 - Text stands under the name of whoever wrote it (@OlehVasylenko2000, 1 September).
 
@@ -136,3 +136,4 @@ How the work runs:
 | 0.1 | 21 October 2026 | First draft, opened as PR #46. |
 | 0.2 | 25 October 2026 | Review by @danyka-icam: R8 wording in the Summary, scope element 1 and Objective 1; lineage assertion versus established derivation in section 5; Variant F in Open Question 6. |
 | 0.3 | 26 October 2026 | Review by @syedofc: three-way distinction carried into D1 (section 6; Open Question 4 answered). Review by @OlehVasylenko2000: D1 as record-side requirements without encodings or schemas (Objective 2, D1); where clause-level attribution stays traceable in a Working Group charter (How the work runs); the grant evidence obligation and #5 (Open Question 9); IETF, RATS and EAT not exclusive (Out of Scope, Related Work); Open Question 10 kept open. |
+| 0.4 | 27 October 2026 | Review by @OlehVasylenko2000: the linked contribution record keeps the Open Questions and the attributed positions recorded under them (How the work runs). |
